@@ -21,6 +21,7 @@ public class Ruben {
 			tabla[i] = (int) (Math.random() * 100);
 		}
 
+		//a
 		// Pido que introduzca un número
 		System.out.println("¿Qué número quieres buscar?");
 		num = sc.nextInt();
